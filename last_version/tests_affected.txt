@@ -1,4 +1,3 @@
-test/test_classes.cpp
 test/test_functions.cpp
 test/test_main.cpp
 test/test_runner.cpp

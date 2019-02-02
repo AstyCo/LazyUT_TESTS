@@ -1,8 +1,3 @@
-src/classes.cpp
-src/classes.h
 src/functions.cpp
 src/functions.h
-src/src.cpp
 src/src.h
-src/structs_ns.cpp
-src/structs_ns.h

@@ -1,4 +1,4 @@
-#include "src/test_functions.h"
+#include "src/functions.h"
 
 class TestFunctions
 {

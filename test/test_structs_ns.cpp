@@ -1,4 +1,4 @@
-#include "src/test_structs.h"
+#include "src/structs_ns.h"
 
 class TestStructs
 {

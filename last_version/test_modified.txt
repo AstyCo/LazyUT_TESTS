@@ -1,6 +1,2 @@
-test_classes.cpp
 test_functions.cpp
-test_main.cpp
-test_runner.cpp
-test_runner.h
 test_structs_ns.cpp
