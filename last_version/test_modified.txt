@@ -1,2 +1,0 @@
-test_functions.cpp
-test_structs_ns.cpp

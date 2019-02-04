@@ -1,3 +1,0 @@
-test/test_main.cpp
-test/test_runner.cpp
-test/test_runner.h
