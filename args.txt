@@ -1,1 +1,1 @@
--v -p C:/experiments/LazyUT_TESTS -s src -t test -i C:/experiments/LazyUT_TESTS/last_version -o C:/experiments/LazyUT_TESTS/files
+-v -r C:/experiments/LazyUT_TESTS -s src -t test -i C:/experiments/LazyUT_TESTS/last_version -o C:/experiments/LazyUT_TESTS/files -d C:/experiments/LazyUT_TESTS/extra_deps.txt
